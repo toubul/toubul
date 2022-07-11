@@ -22,7 +22,7 @@
 
 
 ### Projects
-[![Mason Bricks](https://github-readme-stats.vercel.app/api/pin/?username=realiymolder&repo=mason_bricks&theme=gruvbox)](https://github.com/realitymolder/mason_bricks)
+[![Mason Bricks](https://github-readme-stats.vercel.app/api/pin/?username=realitymolder&repo=mason_bricks&theme=gruvbox)](https://github.com/realitymolder/mason_bricks)
 
 - More to come soon!
 
