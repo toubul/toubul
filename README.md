@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on sevral open source projects<br>🌱 I’m constantly learning new frameworks & programming skills<br>👯 I’m looking to collaborate on open source projects (links will be provided soon)<br>💬 Ask me about Flutter, Dart<br>📫 How to reach me: molder.tuta.io<br>⚡ Fun fact about me: I make the best hummus
+🔭 I’m currently working on sevral open source projects<br>🌱 I’m constantly learning new frameworks & programming skills<br>👯 I’m looking to collaborate on open source projects (links will be provided soon)<br>💬 Ask me about Flutter, Dart<br>📫 How to reach me: molder@tuta.io<br>⚡ Fun fact about me: I make the best hummus
 
 
 # 💻 Tech Stack:
