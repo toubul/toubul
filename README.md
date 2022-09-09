@@ -3,7 +3,7 @@
 🌱 I’m constantly learning new frameworks & programming skills (currently: Go)<br>
 👯 I’m looking to collaborate on open source projects (links will be provided soon)<br>
 💬 Ask me about Flutter, Dart<br>📫 How to reach me: [Mail](mailto:molder@toubul.eu) | [Linkedin](https://www.linkedin.com/in/danieltoubul/) <br>
-⚡ Fun fact about me: I make the best hummus
+⚡ Fun facts about me: Good coder, really bad in interviews | Musicican | I make the best hummus 
 
 
 # 💻 Tech Stack:
