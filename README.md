@@ -13,16 +13,16 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=realitymolder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="400" alt="xxx1" />
+<img src="https://github-readme-stats.vercel.app/api?username=realitymolder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="500" alt="main github stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=realitymolder&theme=tokyonight&hide_border=false" width="400" alt="xxx2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=realitymolder&theme=tokyonight&hide_border=false" width="500" alt="contribution stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realitymolder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="400" alt="xxx3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realitymolder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="500" alt="language stats" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=realitymolder&theme=radical&no-frame=false&no-bg=false&margin-w=4 width="200" alt="profile views counter" />
+<img src="https://github-profile-trophy.vercel.app/?username=realitymolder&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="github trophies stats" />
 </p>
 
 ---
