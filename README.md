@@ -20,7 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realitymolder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="500" alt="language stats" />
 </p>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=realitymolder&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="github trophies stats" />
 </p>
