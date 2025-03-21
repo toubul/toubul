@@ -13,22 +13,22 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=realitymolder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="500" alt="main github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=toubul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="500" alt="main github stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=realitymolder&theme=tokyonight&hide_border=false" width="500" alt="contribution stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toubul&theme=tokyonight&hide_border=false" width="500" alt="contribution stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realitymolder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="500" alt="language stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toubul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="500" alt="language stats" />
 </p>
 
 # 🏆 GitHub Trophies:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=realitymolder&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="github trophies stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=toubul&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="github trophies stats" />
 </p>
 
 ---
 <br>
 <p align="center">
 <a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=realitymolder&icon=4&color=6" width="300" alt="profile views counter" />
+<img src="https://visitcount.itsvg.in/api?id=toubul&icon=4&color=6" width="300" alt="profile views counter" />
 </a> 
 </p>
